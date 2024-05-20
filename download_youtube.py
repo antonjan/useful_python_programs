@@ -2,9 +2,9 @@
 
 from pytube import YouTube
 
-video_url = 'https://www.youtube.com/watch?v=OP_ECe9DP-Q
+video_url = 'https://www.youtube.com/watch?v=t-7tYzTf_y8&t=1082s'
 
-save_path='E:/'
+save_path='./'
 
 # Create a YouTube object
 
@@ -15,6 +15,7 @@ video = YouTube (video_url)
 stream=video.streams.get_highest_resolution()
 
 # Download the video
+print ("Starting to download video")
 
 stream.download (output_path=save_path)
 
