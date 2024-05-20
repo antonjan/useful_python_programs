@@ -3,8 +3,8 @@
 from pdf2docx import Converter
 
 # Specifying the pdf & docx files
-pdf_file = 'muscles.pdf'
-docx_file = 'muscles.docx'
+pdf_file = 'test.pdf'
+docx_file = 'test.docx'
 
 
 try:
