@@ -17,6 +17,7 @@ If you are looking for Face regonition details have a look athe this Link
 
 # Face Regonition
 Compering two image to see if it is the same person https://github.com/antonjan/useful_python_programs/blob/main/compare_2_faces/compare_2_faces.py<br>
+## Usage pyton3 compare_2_faces.py
  <img src="compare_2_faces/Elon_1.png" width="250"><img src="compare_2_faces/Elon_2.png" width="250"><br>
  
 
@@ -26,6 +27,7 @@ Compering two image to see if it is the same person https://github.com/antonjan/
 
 # Get age gender emotion race from face
 Geting get age gender emotion race from face https://github.com/antonjan/useful_python_programs/blob/main/compare_2_faces/get_age_gender_emotion_race_from_face.py<br>
+## Usage pyton3 get_age_gender_emotion_race_from_face.py
 <img src="compare_2_faces/Elon_1.png" width="250"><br>
 
     analysis =  [{'age': 48, 'region': {'x': 102, 'y': 71, 'w': 105, 'h': 105, 'left_eye': (169, 114), 'right_eye': (136, 115)}, 'face_confidence': 0.89, 'gender': {'Woman': 0.0568597053643316, 'Man': 99.94314312934875}, 'dominant_gender': 'Man', 'emotion': {'angry': 0.0016650295947329141, 'disgust': 2.9532640222207363e-08, 'fear': 0.004152909605181776, 'happy': 0.017578933329787105, 'sad': 0.1135431113652885, 'surprise': 0.0001300080157307093, 'neutral': 99.86293315887451}, 'dominant_emotion': 'neutral', 'race': {'asian': 25.048846000570535, 'indian': 4.196341208059644, 'black': 1.9167700360095459, 'white': 23.679134407146645, 'middle eastern': 10.987810225747797, 'latino hispanic': 34.171091416944094}, 'dominant_race': 'latino hispanic'}]
