@@ -2,7 +2,7 @@
 If you are looking for Face regonition details have a look athe this Link
 
 1) 2fa_qr_code_autenticator.py This app wiil crate the Qr code for 2 fator autentication with a Authy app  (Creates the authy barcode and then the 2fa_two_factor_authentication.py app reads the one time password for autentication)
-   ![QR code](totp.png?raw=true "QR Code for autentication")
+<img src="totp.png" width="250">
 
 2) 2fa_qr_code_autenticator.py This app checks the one time pin and verify its corect
 3) Pdf_2_docx.py This Aplication converts PDF documents to Docx documents
