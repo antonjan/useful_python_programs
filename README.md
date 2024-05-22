@@ -17,7 +17,7 @@ If you are looking for Face regonition details have a look athe this Link
 
 # Face Regonition
 Compering two image to see if it is the same person https://github.com/antonjan/useful_python_programs/blob/main/compare_2_faces/compare_2_faces.py
- ![Elon Musk](Elon_1.png?raw=true "Elon Musk")  ![Elon Musk](Elon_2.png?raw=true "Elon Musk")
+ ![Elon Musk](compare_2_faces/Elon_1.png?raw=true "Elon Musk")  ![Elon Musk](compare_2_faces/Elon_2.png?raw=true "Elon Musk")
 
 
     the Face is the same  {'verified': True, 'distance': 0.412142486778337, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 102, 'y': 71, 'w': 105, 'h': 105, 'left_eye': (169, 114), 'right_eye': (136, 115)}, 'img2': {'x': 272, 'y': 168, 'w': 374, 'h': 374, 'left_eye': (507, 315), 'right_eye': (389, 324)}}, 'time': 2.36}
