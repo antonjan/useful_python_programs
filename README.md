@@ -6,8 +6,8 @@ If you are looking for Face regonition details have a look athe this Link
 
 2) 2fa_qr_code_autenticator.py This app checks the one time pin and verify its corect
 3) Pdf_2_docx.py This Aplication converts PDF documents to Docx documents
-4) data_to_chart.py This app creates a chart form 2 array of data
-   <img src="data_graph.png" width="250">
+4) data_to_chart.py This app creates a chart form 2 array of data<br>
+   <img src="data_graph.png" width="250"><br>
 6) download_youtube.py This app downloads a youtube video
 7) generate_random_password.py This app generates random password
 8) google_auth_with_qr_code.py
