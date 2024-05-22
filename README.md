@@ -7,13 +7,14 @@ If you are looking for Face regonition details have a look athe this Link
 2) 2fa_qr_code_autenticator.py This app checks the one time pin and verify its corect
 3) Pdf_2_docx.py This Aplication converts PDF documents to Docx documents
 4) data_to_chart.py This app creates a chart form 2 array of data
-5) download_youtube.py This app downloads a youtube video
-6) generate_random_password.py This app generates random password
-7) google_auth_with_qr_code.py
-8) mp4_to_mp3.py Extracts mp3 audio from mp4 video
-9) remove_img_background.py This app removes img background
-10) sort_list_based_on_another_list.py
-11) sound_tone.py this app creates a audio tone
+   <img src="data_graph.png" width="250">
+6) download_youtube.py This app downloads a youtube video
+7) generate_random_password.py This app generates random password
+8) google_auth_with_qr_code.py
+9) mp4_to_mp3.py Extracts mp3 audio from mp4 video
+10) remove_img_background.py This app removes img background
+11) sort_list_based_on_another_list.py
+12) sound_tone.py this app creates a audio tone
 
 # Face Regonition
 Compering two image to see if it is the same person https://github.com/antonjan/useful_python_programs/blob/main/compare_2_faces/compare_2_faces.py<br>
