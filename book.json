@@ -1,0 +1,36 @@
+{
+"books": [
+{
+"title": "One Hundred Years of Solitude",
+"author": "Gabriel Garcia Marquez",
+"reviews": [
+{
+"reviewer": {
+"name": "Kanwal Mehreen",
+"location": "Islamabad, Pakistan"
+},
+"rating": 4.5,
+"comments": "Magical and completely breathtaking!"
+},
+{
+"reviewer": {
+"name": "Isabella Martinez",
+"location": "Bogotá, Colombia"
+},
+"rating": 4.7,
+"comments": "A marvelous journey through a world of magic."
+}
+]
+},
+{
+"title": "Things Fall Apart",
+"author": "Chinua Achebe",
+"reviews": [
+{
+"reviewer": {
+"name": "Zara Khan",
+"location": "Lagos, Nigeria"
+},
+"rating": 4.9,
+"comments": "Things Fall Apart is the best of contemporary African literature."
+}]}]}
