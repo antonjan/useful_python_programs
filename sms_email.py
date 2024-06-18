@@ -13,5 +13,5 @@ server.starttls()
 server.login(user, password)
 server.quit()
 
-if _main_':
-mail_alert("Hey", "Hello world", "Jake@claritycoders.comp)
+if '_main_':
+mail_alert("Hey", "Hello world", "Jake@claritycoders.comp")
